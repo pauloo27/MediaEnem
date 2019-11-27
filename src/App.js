@@ -1,8 +1,9 @@
 import React, { Component } from "react";
-
 import "./styles/App.scss";
+import defaultWeights from "./weights.json";
 
 import GradeInput from "./components/GradeInput";
+import { EventEmitter } from "events";
 
 const gradesName = [
   "Ciências Naturais",
@@ -14,6 +15,7 @@ const gradesName = [
 
 class App extends Component {
   state = { avg: NaN, grades: undefined };
+  eventEmmitter = new EventEmitter();
 
   populateGrades(grades) {
     gradesName.forEach(name => {
@@ -63,13 +65,43 @@ class App extends Component {
     localStorage.setItem("grades", JSON.stringify(grades));
   };
 
+  handleWeightImport = () => {
+    gradesName.forEach(grade => {
+      const value =  Number.parseInt(
+        defaultWeights[document.getElementById("sel1").selectedIndex][grade]
+      )
+      this.updateGrade(
+        grade,
+        this.state.grades[grade]["grade"],
+        value
+      );
+      this.eventEmmitter.emit("import", grade, value);
+    });
+  };
+
   render() {
     if (!this.state.grades) return null;
+    let index = 0;
     return (
       <div className="App">
         <center>
           <h2 id="header">Média Ponderada</h2>
-          <br></br>
+          <br />
+          <label htmlFor="sel1">Usar pesos de:</label>
+          <select
+            className="form-control"
+            id="sel1"
+            onChange={this.handleWeightImport}
+          >
+            {defaultWeights.map(defaultWeight => {
+              return (
+                <option
+                  value={index++}
+                  key={index}
+                >{`${defaultWeight["course"]} - ${defaultWeight["college"]}`}</option>
+              );
+            })}
+          </select>
           <div id="table-container">
             <table>
               <thead>
@@ -88,6 +120,7 @@ class App extends Component {
                       onUpdate={this.updateGrade}
                       grade={this.state.grades[name].grade}
                       weight={this.state.grades[name].weight}
+                      eventEmitter={this.eventEmmitter}
                     />
                   );
                 })}

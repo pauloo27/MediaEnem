@@ -1,0 +1,425 @@
+[
+  {
+    "college": "UTF-PR",
+    "Matemática": "4",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "2",
+    "Redação": "1",
+    "course": "ENGENHARIA AMBIENTAL"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "4",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "2",
+    "Redação": "1",
+    "course": "ENGENHARIA AMBIENTAL E SANITÁRIA"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "4",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "2",
+    "Redação": "1",
+    "course": "ENGENHARIA DE ALIMENTOS"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "4",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "3",
+    "Redação": "1",
+    "course": "ENGENHARIA DE BIOPROCESSOS E BIOTECNOLOGIA"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "4",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "2",
+    "Redação": "1",
+    "course": "ENGENHARIA CIVIL"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "4",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "2",
+    "Redação": "1",
+    "course": "ENGENHARIA DE COMPUTAÇÃO"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "4",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "2",
+    "Redação": "1",
+    "course": "ENGENHARIA CONTROLE E AUTOMAÇÃO"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "4",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "2",
+    "Redação": "1",
+    "course": "ENGENHARIA ELETRÔNICA"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "4",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "2",
+    "Redação": "1",
+    "course": "ENGENHARIA ELÉTRICA"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "1",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "1",
+    "Redação": "1",
+    "course": "ENGENHARIA FLORESTAL"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "4",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "2",
+    "Redação": "1",
+    "course": "ENGENHARIA DE MATERIAIS"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "4",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "2",
+    "Redação": "1",
+    "course": "ENGENHARIA MECÂNICA"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "4",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "2",
+    "Redação": "1",
+    "course": "ENGENHARIA MECATRÔNICA"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "4",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "2",
+    "Redação": "1",
+    "course": "ENGENHARIA DE PRODUÇÃO"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "4",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "3",
+    "Redação": "1",
+    "course": "ENGENHARIA QUÍMICA"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "4",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "3",
+    "Redação": "1",
+    "course": "ENGENHARIA TÊXTIL"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "3",
+    "Linguagens": "2",
+    "Ciências Humanas": "2",
+    "Ciências Naturais": "1",
+    "Redação": "1",
+    "course": "ADMINISTRAÇÃO"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "1",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "1",
+    "Redação": "1",
+    "course": "AGRONOMIA"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "1",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "1",
+    "Redação": "1",
+    "course": "ARQUITETURA E URBANISMO"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "4",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "2",
+    "Redação": "1",
+    "course": "CIÊNCIAS DA COMPUTAÇÃO"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "1",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "1",
+    "Redação": "1",
+    "course": "CIÊNCIAS CONTÁBEIS"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "1",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "1",
+    "Redação": "1",
+    "course": "COMUNICAÇÃO ORGANIZACIONAL"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "1",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "1",
+    "Redação": "1",
+    "course": "DESIGN"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "1",
+    "Linguagens": "2",
+    "Ciências Humanas": "2",
+    "Ciências Naturais": "2",
+    "Redação": "2",
+    "course": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "4",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "2",
+    "Redação": "1",
+    "course": "BACHARELADO EM ENGENHARIA DE SOFTWARE"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "4",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "2",
+    "Redação": "1",
+    "course": "QUÍMICA"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "4",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "2",
+    "Redação": "1",
+    "course": "SISTEMAS DE INFORMAÇÃO"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "1",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "1",
+    "Redação": "1",
+    "course": "ZOOTECNIA"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "1",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "1",
+    "Redação": "1",
+    "course": "LICENCIATURA EM CIÊNCIAS BIOLÓGICAS"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "3",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "3",
+    "Redação": "1",
+    "course": "LICENCIATURA EM FÍSICA"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "1",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "1",
+    "Redação": "1",
+    "course": "LICENCIATURA INFORMÁTICA"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "1",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "1",
+    "Redação": "1",
+    "course": "LICENCIATURA EM LETRAS"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "4",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "2",
+    "Redação": "1",
+    "course": "LICENCIATURA EM MATEMÁTICA"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "4",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "3",
+    "Redação": "1",
+    "course": "LICENCIATURA EM QUÍMICA"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "1",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "1",
+    "Redação": "1",
+    "course": "TECN. ALIMENTOS"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "4",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "2",
+    "Redação": "1",
+    "course": "TECN. ANÁLISE E DESENV. DE SISTEMAS"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "4",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "2",
+    "Redação": "1",
+    "course": "TECN. AUTOMAÇÃO INDUSTRIAL"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "1",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "1",
+    "Redação": "1",
+    "course": "TECN. DESIGN GRÁFICO"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "1",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "1",
+    "Redação": "1",
+    "course": "TECN. DESIGN DE MODA"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "4",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "2",
+    "Redação": "1",
+    "course": "TECN. FABRICAÇÃO MECÂNICA"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "1",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "1",
+    "Redação": "1",
+    "course": "TECN. GESTÃO AMBIENTAL"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "4",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "2",
+    "Redação": "1",
+    "course": "TECN. MANUTENÇÃO INDUSTRIAL"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "3",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "3",
+    "Redação": "1",
+    "course": "TECN. PROCESSOS AMBIENTAIS"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "4",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "3",
+    "Redação": "1",
+    "course": "TECN. PROCESSOS QUÍMICOS"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "3",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "3",
+    "Redação": "1",
+    "course": "TECN. RADIOLOGIA"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "4",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "2",
+    "Redação": "1",
+    "course": "TECN. SISTEMAS PARA INTERNET"
+  },
+  {
+    "college": "UTF-PR",
+    "Matemática": "4",
+    "Linguagens": "1",
+    "Ciências Humanas": "1",
+    "Ciências Naturais": "2",
+    "Redação": "1",
+    "course": "TECN. SISTEMAS DE TELECOMUNICAÇÕES"
+  }
+]

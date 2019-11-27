@@ -5,6 +5,15 @@ const FieldType = Object.freeze({ grade: 1, weight: 2 });
 class GradeInput extends Component {
   state = { lastWeight: 1 };
 
+  constructor(props) {
+    super(props);
+    this.props.eventEmitter.on("import", (grade, value) => {
+      if (this.props.name === grade) {
+        document.getElementById(`${grade}-weight`).value = value;
+      }
+    });
+  }
+
   handleUpdate = (e, min, max, gradeName, fieldType) => {
     var value = Number.parseInt(e.target.value);
     if (e.target.value !== "") {
