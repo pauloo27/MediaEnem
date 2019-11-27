@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ReactGradeAvg/static/css/main.8c247060.chunk.css",
+    "main.js": "/ReactGradeAvg/static/js/main.8b7e1606.chunk.js",
+    "main.js.map": "/ReactGradeAvg/static/js/main.8b7e1606.chunk.js.map",
+    "runtime-main.js": "/ReactGradeAvg/static/js/runtime-main.58d60930.js",
+    "runtime-main.js.map": "/ReactGradeAvg/static/js/runtime-main.58d60930.js.map",
+    "static/css/2.0624914a.chunk.css": "/ReactGradeAvg/static/css/2.0624914a.chunk.css",
+    "static/js/2.65f95a9b.chunk.js": "/ReactGradeAvg/static/js/2.65f95a9b.chunk.js",
+    "static/js/2.65f95a9b.chunk.js.map": "/ReactGradeAvg/static/js/2.65f95a9b.chunk.js.map",
+    "index.html": "/ReactGradeAvg/index.html",
+    "precache-manifest.c07edbcca30566c1f523cfdb4b9fd371.js": "/ReactGradeAvg/precache-manifest.c07edbcca30566c1f523cfdb4b9fd371.js",
+    "service-worker.js": "/ReactGradeAvg/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/ReactGradeAvg/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.8c247060.chunk.css.map": "/ReactGradeAvg/static/css/main.8c247060.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58d60930.js",
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.65f95a9b.chunk.js",
+    "static/css/main.8c247060.chunk.css",
+    "static/js/main.8b7e1606.chunk.js"
+  ]
+}
