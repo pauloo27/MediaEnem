@@ -137,7 +137,7 @@ class App extends Component {
           <p id="created-by">
             Criado por{" "}
             <span>
-              <a href="https://github.com/Pauloo27">Pauloo27</a>
+              <a href="https://github.com/Pauloo27/Grade" target="_blank" rel="noopener noreferrer">Pauloo27</a>
             </span>{" "}
             usando ReactJS.
           </p>
