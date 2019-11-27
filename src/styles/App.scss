@@ -1,0 +1,50 @@
+@import "./colors.scss";
+
+body {
+  background-color: $darkPrimary !important;
+  color: $lightSecondary !important;
+}
+
+tr {
+  text-align: left;
+}
+
+// mobile
+@media only screen and (max-width: 800px) {
+  table {
+    width: 80%;
+  }
+}
+
+// desktop
+@media only screen and (min-width: 800px) {
+  table {
+    width: 30%;
+  }
+}
+
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+
+#created-by {
+  color: $grayPrimary;
+  span {
+    color: $lightSecondary;
+  }
+}
+
+#header {
+  padding: 5px;
+  background-color: $darkSecondary;
+  border-radius: 100px;
+  margin: 10px 20px !important;
+}
+
+.form-control {
+  width: 60px !important;
+  background-color: $darkSecondary !important;
+  border-color: $blue !important;
+  color: $lightSecondary !important;
+  margin-bottom: 10px !important;
+}
