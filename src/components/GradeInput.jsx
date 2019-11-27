@@ -3,7 +3,7 @@ import React, { Component } from "react";
 const FieldType = Object.freeze({ grade: 1, weight: 2 });
 
 class GradeInput extends Component {
-  state = {lastWeight: 1}
+  state = { lastWeight: 1 };
 
   handleUpdate = (e, min, max, gradeName, fieldType) => {
     var value = Number.parseInt(e.target.value);
@@ -58,12 +58,15 @@ class GradeInput extends Component {
             max="5"
             placeholder="Peso"
             onFocus={e => {
-              if(e.target.value !== "") {
-                this.setState({lastWeight: e.target.value})
+              if (e.target.value !== "") {
+                this.setState({ lastWeight: e.target.value });
               }
-              e.target.value = ""
+              e.target.value = "";
             }}
-            onBlur={e => e.target.value = e.target.value === "" ? this.state.lastWeight : e.target.value}
+            onBlur={e =>
+              (e.target.value =
+                e.target.value === "" ? this.state.lastWeight : e.target.value)
+            }
             onChange={e =>
               this.handleUpdate(e, 1, 5, this.props.name, FieldType.weight)
             }
