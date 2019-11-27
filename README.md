@@ -5,7 +5,7 @@ Essa calculadora foi feita usando ReactJS e é capaz de calcular a média de um 
 ![Screenshot](https://i.imgur.com/hUsG61n.png)
 
 ## Como usar
-Acesse https://pauloo27.github.io/ReactGradeAvg.
+Acesse https://pauloo27.github.io/Grade.
 
 Você também pode rodar localmente clonando o repositório e então usando o comando:
 >  yarn start
