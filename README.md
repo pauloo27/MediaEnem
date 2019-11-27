@@ -9,3 +9,8 @@ Acesse https://pauloo27.github.io/ReactGradeAvg.
 
 Você também pode rodar localmente clonando o repositório e então usando o comando:
 >  yarn start
+
+## Licença
+![GPLv3 Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/GPLv3_Logo.svg/220px-GPLv3_Logo.svg.png)
+
+Esse projeto é licenciado com a [GNU General Public License v3.0](./LICENSE).
