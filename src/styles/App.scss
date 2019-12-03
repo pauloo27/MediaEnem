@@ -12,7 +12,7 @@ tr {
 // mobile
 @media only screen and (max-width: 800px) {
   table {
-    width: 80%;
+    width: 90%;
   }
 }
 
@@ -28,7 +28,7 @@ input[type="number"]::-webkit-inner-spin-button {
 }
 
 #table-container {
-  margin: 50px;
+  margin: 50px 0px;
 }
 
 #created-by {
