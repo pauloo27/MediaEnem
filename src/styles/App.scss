@@ -27,6 +27,10 @@ input[type="number"]::-webkit-inner-spin-button {
   -webkit-appearance: none;
 }
 
+#table-container {
+  margin: 50px;
+}
+
 #created-by {
   color: $grayPrimary;
   span {

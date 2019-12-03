@@ -86,7 +86,6 @@ class App extends Component {
       <div className="App">
         <center>
           <h2 id="header">Média Ponderada</h2>
-          <br />
           <label htmlFor="sel1">Usar pesos de:</label>
           <select
             className="form-control"
@@ -126,14 +125,12 @@ class App extends Component {
                 })}
               </tbody>
             </table>
-            <br />
             <h2>
               {Number.isNaN(this.state.avg)
                 ? ""
                 : `Sua média é ${this.state.avg.toFixed(2)}.`}
             </h2>
           </div>
-          <br />
           <p id="created-by">
             Criado por{" "}
             <span>
