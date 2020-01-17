@@ -15,7 +15,7 @@ class GradeInput extends Component {
   }
 
   handleUpdate = (e, min, max, gradeName, fieldType) => {
-    var value = Number.parseInt(e.target.value);
+    var value = Number.parseFloat(e.target.value);
     if (e.target.value !== "") {
       if (value > max) {
         e.target.value = max;
@@ -51,6 +51,7 @@ class GradeInput extends Component {
             defaultValue={this.props.grade}
             min="10"
             max="1000"
+            step="0.01"
             placeholder="Nota"
             onChange={e =>
               this.handleUpdate(e, 0, 1000, this.props.name, FieldType.grade)
