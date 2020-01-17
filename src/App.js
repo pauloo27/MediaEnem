@@ -6,9 +6,9 @@ import GradeInput from "./components/GradeInput";
 import { EventEmitter } from "events";
 
 const gradesName = [
-  "Ciências Naturais",
-  "Ciências Humanas",
   "Linguagens",
+  "Ciências Humanas",
+  "Ciências Naturais",
   "Matemática",
   "Redação"
 ];
