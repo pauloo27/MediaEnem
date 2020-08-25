@@ -2,7 +2,7 @@
   "name": "avg-calc",
   "version": "0.1.0",
   "license": "GPL-3.0",
-  "homepage": "https://Pauloo27.github.io/Grade",
+  "homepage": "https://Pauloo27.github.io/MediaEnem",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.1.1",
