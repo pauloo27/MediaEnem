@@ -5,7 +5,7 @@ Essa calculadora foi feita usando ReactJS e é capaz de calcular a média de um 
 ![Screenshot](https://i.imgur.com/BAatzet.png)
 
 ## Como usar
-Acesse https://pauloo27.github.io/Grade.
+Acesse https://pauloo27.github.io/MediaEnem.
 
 Você também pode rodar localmente clonando o repositório e então usando o comando:
 >  yarn start
